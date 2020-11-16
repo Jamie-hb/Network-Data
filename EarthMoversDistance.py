@@ -1,3 +1,6 @@
+""" Some code for computing the Earth Mover's Distance between two sequecnces of interaction networks, as described the paper Peyré, G. and Cuturi, M. (2019). Computational Optimal Transport. Foundations and
+Trends in Machine Learning, 11(5-6):1257. """
+
 import numpy as np
 import ot
 
